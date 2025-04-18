@@ -51,7 +51,7 @@ Matplotlib, Seaborn
 
 Scikit-learn (sklearn)
 
-#📂 File
+# 📂 File
 student_scores.ipynb: Notebook utama proyek ini
 
 student_scores.xlsx: Dataset input
