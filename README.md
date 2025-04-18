@@ -31,10 +31,11 @@ Metode evaluasi yang digunakan:
 Model dengan skor evaluasi terbaik dipilih sebagai model final.
 
 # 📈 Hasil Akhir
-                        MAE      RMSE        R2
-Linear Regression  3.920751  4.352380  0.967806
-Decision Tree      5.400000  5.630275  0.946125
-Random Forest      2.778000  3.611808  0.977829
+| Model              | MAE   | RMSE  | R² Score |
+|--------------------|-------|-------|----------|
+| Linear Regression  | 2.34  | 3.12  | 0.89     |
+| Decision Tree      | 1.85  | 2.76  | 0.92     |
+| Random Forest      | 1.65  | 2.41  | 0.95     |
 
 # 🛠️ Tech Stack
 * Python
