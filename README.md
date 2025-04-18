@@ -33,9 +33,9 @@ Model dengan skor evaluasi terbaik dipilih sebagai model final.
 # 📈 Hasil Akhir
 | Model              | MAE   | RMSE  | R² Score |
 |--------------------|-------|-------|----------|
-| Linear Regression  | 2.34  | 3.12  | 0.89     |
-| Decision Tree      | 1.85  | 2.76  | 0.92     |
-| Random Forest      | 1.65  | 2.41  | 0.95     |
+| Linear Regression  | 3.921  | 4.352 | 0.968   |
+| Decision Tree      | 5.400 | 5.360 | 0.946    |
+| Random Forest      | 2.778 | 3.612 | 0.978    |
 
 Hasil terbaik adalah Random Forest
 
