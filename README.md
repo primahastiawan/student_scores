@@ -45,4 +45,4 @@ Random Forest      2.778000  3.611808  0.977829
 # 📌 Catatan
 Proyek ini adalah bagian dari latihan portofolio mini untuk mengasah kemampuan data science dan machine learning.
 Dibuat oleh Prima Hastiawan
-Bootcamp : Machine Learning Bootcamp Dibimbing.id
+* Bootcamp : Machine Learning Bootcamp Dibimbing.id
