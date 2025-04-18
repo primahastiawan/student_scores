@@ -1,11 +1,11 @@
-# student_scores
-📊 Student Score Prediction – Mini Portfolio Project
+
+# 📊 Student Score Prediction – Mini Portfolio Project
 Welcome to my mini portfolio project! This project aims to predict student scores based on several input features using regression models. It follows a structured data science workflow including EDA, feature engineering, model training, and evaluation.
 
-📁 Dataset
+# 📁 Dataset
 Dataset yang digunakan adalah student_scores.xlsx, yang berisi informasi nilai siswa dan beberapa variabel pendukung lainnya.
 
-🚀 Project Workflow
+# 🚀 Project Workflow
 1. Exploratory Data Analysis (EDA)
 Statistik deskriptif dan distribusi data
 
@@ -39,10 +39,10 @@ R² Score (Coefficient of Determination)
 5. Model Comparison & Conclusion
 Model dengan skor evaluasi terbaik dipilih sebagai model final.
 
-📈 Hasil Akhir
+# 📈 Hasil Akhir
 Model terbaik dipilih berdasarkan nilai R² tertinggi, serta error terkecil (MAE & RMSE). Hasil visualisasi performa model ditampilkan dalam bentuk grafik bar chart untuk perbandingan.
 
-🛠️ Tech Stack
+# 🛠️ Tech Stack
 Python
 
 Pandas, NumPy
@@ -51,12 +51,12 @@ Matplotlib, Seaborn
 
 Scikit-learn (sklearn)
 
-📂 File
+#📂 File
 student_scores.ipynb: Notebook utama proyek ini
 
 student_scores.xlsx: Dataset input
 
 README.md: Penjelasan proyek
 
-📌 Catatan
+# 📌 Catatan
 Proyek ini adalah bagian dari latihan portofolio mini untuk mengasah kemampuan data science dan machine learning dalam konteks regresi.
