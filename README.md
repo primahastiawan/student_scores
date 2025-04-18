@@ -36,7 +36,9 @@ Model dengan skor evaluasi terbaik dipilih sebagai model final.
 | Linear Regression  | 2.34  | 3.12  | 0.89     |
 | Decision Tree      | 1.85  | 2.76  | 0.92     |
 | Random Forest      | 1.65  | 2.41  | 0.95     |
+
 Hasil terbaik adalah Random Forest
+
 # 🛠️ Tech Stack
 * Python
 * Pandas, NumPy
